@@ -4,3 +4,6 @@ This Chrome extension allows you to quickly access the Reddit source for a parti
 Please note that the page refresh may have unintended consequences, such as resetting the list of content you are currently viewing. If this is a concern, consider opening the content you want to see the Reddit source for in a new tab to preserve your place in the content list. 
 
 This extension uses a background script and a content script to run on pages with a specific URL pattern and includes icons for different sizes.
+
+Here is a quick step by step directions on how to download and install an "unpacked extension" into your Chrome based browser (eg. Opera, Microsoft Edge, Google Chrome, Chromium, etc.)
+https://dev.to/ben/how-to-install-chrome-extensions-manually-from-github-1612
